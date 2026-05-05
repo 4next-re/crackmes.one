@@ -1,8 +1,14 @@
 # vilxd's decode me 
 
-####  by 4next_re 
+Source: https://crackmes.one/crackme/69245c422d267f28f69b806e
 
-#####  *previously published with former handle __patbateman__*
+
+
+####  <img src="./assets/4next_re.png" alt="4next_re" style="zoom:12%;" />  by 4next_re 
+
+
+
+#####  previously published with my former handle "__patbateman__" (pending account deletion on crackmes.one)
 
 ## Tools Used
 
@@ -12,7 +18,7 @@
 | Hex Rays IDA | https://hex-rays.com     |
 | MASM64 SDK   | https://masm32.com       |
 
-## 1. The Analysis
+## The Analysis
 
 As it usually happens with applications like this, the first step is watching its behavior :
 
@@ -199,7 +205,7 @@ From now on, there are two approaches:
 
 In this specific scenario, since we are just searching for the password and not keygenning it, a quick debugging session is enough by simply stopping after the first call of **transformChar** and taking note of the *Destination* buffer containing the transformed string from hard coded *Source* "Pa100-322-1L@101"...
 
-## 2. The Solution: 
+## The Solution: 
 
 ```ini
 Pa>__-3\\->L@>_>
