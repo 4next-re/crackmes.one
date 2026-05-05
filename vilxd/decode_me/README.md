@@ -4,7 +4,7 @@ Source: https://crackmes.one/crackme/69245c422d267f28f69b806e
 
 
 
-####  <img src="./assets/4next_re.png" alt="4next_re" style="zoom:12%;" />  by 4next_re 
+####  <img src="./assets/4next_re.png" alt="4next_re" style="width:12%; margin: auto;" />  by 4next_re 
 
 
 
