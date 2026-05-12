@@ -317,7 +317,9 @@ entry_point proc
     mov rcx, offset input
     call keygen
 
-    conout "Key : ", hex$(rax), lf 
+    conout "Key : ", hex$(rax), lf
+
+	waitkey cfm$("\n  Press any key ....\n")
 
     invoke ExitProcess, 0
 
