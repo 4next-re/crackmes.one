@@ -2,7 +2,7 @@
 
 Source: https://crackmes.one/crackme/691f53d32d267f28f69b7f62
 
-####  <img src="./assets/4next_re.png" alt="4next_re" style="zoom:12%;" />  by 4next_re 
+####  <img src="./assets/4next_re.png" alt="4next_re"  style="width:12%; margin: auto;" />  by 4next_re 
 
 ## Tools Used
 
